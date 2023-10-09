@@ -1,0 +1,3 @@
+﻿  maze.cpp
+C:\Users\Quixar\source\repos\maze\maze.cpp(23,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  maze.vcxproj -> C:\Users\Quixar\source\repos\maze\x64\Debug\maze.exe
